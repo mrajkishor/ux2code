@@ -1,0 +1,1 @@
+export function CodePreview() { return <pre>Generated JSX</pre>; }

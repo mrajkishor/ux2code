@@ -1,0 +1,1 @@
+// Map Figma styles to Tailwind
